@@ -12,7 +12,7 @@ profile:
     <p>HSS Building UC San Diego</p>
     <p>9500 Gilman Dr</p>
     <p>La Jolla, California 92092</p>
-    <p>c5an at ucsd dot edu</p>
+    <p>email: c5an at ucsd dot edu</p>
 
 
 news: false  # includes a list of news items
