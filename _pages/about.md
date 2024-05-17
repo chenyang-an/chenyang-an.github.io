@@ -26,10 +26,10 @@ Prior to my Ph.D. study, I completed my B.S. in Applied Mathematics and B.A. in 
 
 My current research focuses on Large Language Model (LLM) Reasoning and Theorem Proving both in natural language and formalized environments.
 I believe that mathematics will eventually fall well within the capabilities of LLMs (although not yet). 
-My prior research experience gives me a strong perspective for how to enhance LLMs' reasoning ability through training, prompting and data augmentation.
+My prior research experience in mathematics gives me a strong perspective for how to enhance LLMs' reasoning ability through training, prompting and data augmentation.
 
 
 My prior research focused on 2D Quantum Gravity and mathematical physics. I'm fascinated about the interplay between math and physics. I studied the intersection number
-of moduli space of curves as orbifolds. This field exhibits a profound connection between algebraic geometry and physics.
+of moduli spaces of curves as orbifolds. This field exhibits a profound connection between algebraic geometry and physics.
 
 If you are interested in any of the topics above, feel free to drop me an email!
