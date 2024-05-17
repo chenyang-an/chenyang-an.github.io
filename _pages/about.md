@@ -33,3 +33,4 @@ Specifically, I use deep learning methods to prove mathematical theorems in form
 
 If you are interested in any of the topics above, feel free to drop me an email!
 
+yes
