@@ -15,7 +15,7 @@ profile:
     <p>email: c5an at ucsd dot edu</p>
 
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -31,5 +31,7 @@ My prior research experience in mathematics gives me a strong perspective for ho
 
 My prior research focused on 2D Quantum Gravity and mathematical physics. I'm fascinated about the interplay between math and physics. I studied the intersection number
 of moduli spaces of curves as orbifolds. This field exhibits a profound connection between algebraic geometry and physics.
+
+I'm working at Microsoft as a research intern in ML and Generative AI in the summer of 2024 in Redmond, Seattle. 
 
 If you are interested in any of the topics above, feel free to drop me an email!
