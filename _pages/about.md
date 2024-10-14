@@ -27,11 +27,10 @@ Prior to my Ph.D. study, I completed my B.S. in Applied Mathematics and B.A. in 
 My current research focuses on Large Language Model (LLM) Reasoning and Theorem Proving both in natural language and formalized environments.
 I believe that mathematics will fall well within the capabilities of LLMs probably soon.
 
-My prior research focused on 2D Quantum Gravity and mathematical physics. I'm fascinated about the interplay between math and physics. I studied the intersection number
-of moduli spaces of curves as orbifolds. This field exhibits a profound connection between algebraic geometry and physics.
+My prior research focused on 2D Quantum Gravity and mathematical physics, studying the interplay between algebra, geometry and physics. 
 
 I am currently employed at Scale AI as an AI Consultant, working on fine-tuning large language models for AI reasoning and planning.
 
-I was interning at Microsoft as a research intern in ML and Generative AI in the summer of 2024 in Seattle, working on LLM training efficiency for reasoning tasks.
+I was working at Microsoft as a research intern in ML and Generative AI in the summer of 2024 in Seattle, working on LLM training efficiency for reasoning tasks.
 
 If you are interested in any of the topics above, feel free to drop me an email!
