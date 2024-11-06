@@ -29,7 +29,7 @@ I believe that mathematics will fall well within the capabilities of LLMs probab
 
 My prior research focused on 2D Quantum Gravity and mathematical physics, studying the interplay between algebra, geometry and physics. 
 
-I am currently employed at Scale AI as an AI Consultant, working on fine-tuning large language models for AI reasoning and planning.
+I am currently employed at Scale AI as an AI Consultant, working on evaluations of large language models for reasoning and planning.
 
 I was working at Microsoft as a research intern in ML and Generative AI in the summer of 2024 in Seattle, working on LLM training efficiency for reasoning tasks.
 
