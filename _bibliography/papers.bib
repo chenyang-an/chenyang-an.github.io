@@ -4,8 +4,21 @@
 
 
 
+@article{Arxiv,
+  abbr={Arxiv},
+  title={Linear Correlation in LM's Compositional Generalization and Hallucination},
+  abstract={The generalization of language models (LMs) is undergoing active debates, contrasting their potential for general intelligence with their struggles with basic knowledge composition (e.g., reverse/transition curse). This paper uncovers the phenomenon of linear correlations in LMs during knowledge composition. For explanation, there exists a linear transformation between certain related knowledge that maps the next token prediction logits from one prompt to another, e.g., "X lives in the city of" → "X lives in the country of" for every given X. This mirrors the linearity in human knowledge composition, such as Paris → France. Our findings indicate that the linear transformation is resilient to large-scale fine-tuning, generalizing updated knowledge when aligned with real-world relationships, but causing hallucinations when it deviates. Empirical results suggest that linear correlation can serve as a potential identifier of LM's generalization. Finally, we show such linear correlations can be learned with a single feedforward network and pre-trained vocabulary representations, indicating LM generalization heavily relies on the latter.},
+  year={2025},
+  month={Feb},
+  publisher=aps,
+  url={https://arxiv.org/abs/2502.04520},
+  html={https://arxiv.org/abs/2502.04520},
+  dimensions={true},
+  selected={true}
+}
 
-@article{Submmitted to ARR DEC,
+
+@article{Arxiv,
   abbr={Arxiv},
   title={Next-Token Prediction Task Assumes Optimal Data Ordering for LLM Training in Proof Generation},
   abstract={In the field of large language model (LLM)-based proof generation, despite being trained on extensive corpora such as OpenWebMath and Arxiv, these models still exhibit only modest performance on proving tasks of moderate difficulty. We believe that this is partly due to the suboptimal order of each proof data used in training. Published proofs often follow a purely logical order, where each step logically proceeds from the previous steps based on the deductive rules. However, this order aims to facilitate the verification of the proof's soundness, rather than to help people and models learn the discovery process of the proof. In proof generation, we argue that the optimal order for one training data sample occurs when the relevant intermediate supervision for a particular proof step in the proof is always positioned to the left of that proof step. We call such order the intuitively sequential order. We validate our claims using two tasks: intuitionistic propositional logic theorem-proving and digit multiplication. Our experiments verify the order effect and provide support for our explanations. We demonstrate that training is most effective when the proof is in the intuitively sequential order. Moreover, the order effect and the performance gap between models trained on different data orders are substantial -- with an 11 percent improvement in proof success rate observed in the propositional logic theorem-proving task, between models trained on the optimal order compared to the worst order.},
