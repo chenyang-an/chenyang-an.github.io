@@ -25,7 +25,6 @@ I am a 5-th year Ph.D. student in the Mathematics Department, UC San Diego, wher
 Prior to my Ph.D. study, I completed my B.S. in Applied Mathematics and B.A. in Economics at UC San Diego.
 
 My current research focuses on Large Language Model (LLM) Reasoning and in natural language and formalized environments, and LLM post-training using supervised fine-tuning and reinforcement learning.
-I believe that mathematics will fall well within the capabilities of LLMs probably soon.
 
 My prior research focused on 2D Quantum Gravity and mathematical physics, studying the interplay between algebra, geometry and physics. 
 
