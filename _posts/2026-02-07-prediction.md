@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Forward looking: How powerful the foundational models will be at the end of 2026."
-date: 2026-02-08 10:00:00-0400
+date: 2026-02-07 10:00:00-0400
 description: A forward-looking prediction on frontier model capability in advanced mathematical reasoning and proof verification by the end of 2026
 tags: AI prediction reasoning math foundational-models
 categories: prediction
