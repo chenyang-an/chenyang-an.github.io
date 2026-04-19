@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Research Scientist @ <a href="https://www.linkedin.com/company/miromind-ai/">Miromind</a>
+subtitle: Applied Scientist @ Amamzon AWS
 
 profile:
   align: right
