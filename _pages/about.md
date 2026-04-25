@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Applied Scientist @ Amamzon AWS
+subtitle: PhD candidate at UCSD
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am an LLM researcher and AI agent engineer focused on post-training, data curation, and reasoning in both natural and formal languages. I'm an Applied Scientist at Amazon AWS, and have interned at Microsoft Research, Scale AI, and Amazon.
+I am an LLM researcher and AI agent engineer focused on post-training, data curation, and reasoning in both natural and formal languages. I was previously an Applied Scientist at Amazon AWS, and have interned at Microsoft Research, Scale AI, and Amazon.
 
 My PhD research centers on improving LLM reasoning through post-training. I have published at ACL, ICLR, and EMNLP, with work on curating higher-quality reasoning data via trial-and-error trajectories, studying LLM generalization through internal representations, and designing diversity-aware reward mechanisms for mathematical reasoning.
 
