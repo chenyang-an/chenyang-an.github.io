@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist @ Miromind
+subtitle: PhD in Mathematics @ UCSD
 
 profile:
   align: right
@@ -19,18 +19,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Research Scientist @ Miromind, working on improving SOTA AI systems for reasoning and verification. Previously, I was an Applied Scientist at Amazon AWS, and have interned at Microsoft Research, Scale AI, and Amazon.
+I’m Chenyang An. I work on making AI better at solving difficult problems, from improving LLM reasoning through post-training and RL to building agents, verification systems, and interactive environments. My work spans AI for Science, AI for AI, and AI for Math.
 
-My PhD research centers on improving LLM reasoning through post-training and building AI agentic systems. I have published at ACL, ICLR, and EMNLP, with work on curating higher-quality reasoning data via trial-and-error trajectories, studying LLM generalization through internal representations, and designing diversity-aware reward mechanisms for mathematical reasoning.
+I earned my PhD at UC San Diego, where my research focused on understanding and improving large language models. My work spanned reasoning, generalization, and model behavior, combining empirical research with the development of training methods and reliable AI systems.
 
-My goal is to build AI that reasons correctly and verifies its own answers for meaningfully difficult problems. I developed [QED](https://github.com/proofQED/QED), an open-source agent for mathematical discovery that has solved 3 open PDE research problems: constructing Carleman weight functions for inverse problems, proving nonexistence results for critical transport equations, and establishing equivalence conditions for Batchelor scale existence in shear flow. QED is currently tackling other open math research questions—more to be announced. As of April 27, 2026, QED proves that AI can already produce original nontrivial proofs to open research math problems. 
+Along the way, I worked at Microsoft Research, Scale AI, and Amazon AWS. At AWS, I worked on systems that translate natural language policies into formal specifications and use automated reasoning to verify the logical correctness of AI-generated responses.
 
-The thing left to do is to make AI stronger and accelerate its application.
+I also co-developed [QED](https://github.com/proofQED/QED), an open-source multi-agent system for mathematical discovery. QED coordinates planning, proof generation, and verification to tackle open research problems. It has generated original proofs across several areas of mathematics, with results reviewed by domain experts. Building QED has been a way to explore how far today’s AI can go when given a difficult problem, the right tools, and a process for checking its own work.
 
-At Amazon, I built agentic systems that translate natural language into formal specifications and executable logic, using symbolic verification methods to ensure correctness, reduce hallucination, and improve logical consistency in LLM outputs.
+At Apodex, I built the interactive, verifiable environment infrastructure behind [Apodex Discovery](https://arxiv.org/abs/2608.11341) for training and evaluating AI agents on open-ended research problems. My work covered **AI for Science**, including drug discovery, and **AI for AI**, including recursive self-improvement (RSI). These environments integrated domain-specific data and tools with state tracking, feedback, and automated verification.
 
-I also build tools for mathematical workflows, such as [pdf-to-Lean](https://github.com/chenyang-an/pdf_to_lean) for converting mathematical documents into formal proofs.
+Beyond research papers, I build tools for the everyday work surrounding research. These include [pdf-to-Lean](https://github.com/chenyang-an/pdf_to_lean), which converts mathematical documents into Lean formalizations, and [Proofread](https://github.com/chenyang-an/proofread), a multi-stage proofreading pipeline for LaTeX papers and books.
+
+Today, I’m exploring where advances in AI reasoning and agentic systems can make the greatest practical difference. I’m interested in both extending what these systems can do and turning those capabilities into useful tools. I’d love to connect with people bringing difficult problems, ideas for applications, or an interest in building together.
 
 [[Resume]](https://drive.google.com/file/d/16UIoDVubnkXZEWg7xtF_BBShqRRUpqtY/view?usp=drive_link)
-
-If you are interested in reasoning, verification, or formal methods for AI, feel free to drop me an email!
